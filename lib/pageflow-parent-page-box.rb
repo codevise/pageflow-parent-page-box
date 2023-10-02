@@ -1,4 +1,5 @@
 require 'pageflow/parent_page_box/engine'
+require 'pageflow/parent_page_box/version'
 
 module Pageflow
   module ParentPageBox
